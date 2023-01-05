@@ -1,4 +1,4 @@
 # project-webpage
 
-https://kwonminki.github.io/Asyrp/
+https://curryjung.github.io/DiffStyle_project_page.github.io/
 
